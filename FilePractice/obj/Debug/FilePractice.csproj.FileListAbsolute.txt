@@ -1,0 +1,7 @@
+c:\users\машимовн.corp\source\repos\FilePractice\FilePractice\bin\Debug\FilePractice.exe.config
+c:\users\машимовн.corp\source\repos\FilePractice\FilePractice\bin\Debug\FilePractice.exe
+c:\users\машимовн.corp\source\repos\FilePractice\FilePractice\bin\Debug\FilePractice.pdb
+c:\users\машимовн.corp\source\repos\FilePractice\FilePractice\obj\Debug\FilePractice.csprojAssemblyReference.cache
+c:\users\машимовн.corp\source\repos\FilePractice\FilePractice\obj\Debug\FilePractice.csproj.CoreCompileInputs.cache
+c:\users\машимовн.corp\source\repos\FilePractice\FilePractice\obj\Debug\FilePractice.exe
+c:\users\машимовн.corp\source\repos\FilePractice\FilePractice\obj\Debug\FilePractice.pdb

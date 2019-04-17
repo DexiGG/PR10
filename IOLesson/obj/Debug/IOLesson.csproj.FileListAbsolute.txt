@@ -1,0 +1,7 @@
+c:\users\машимовн.corp\source\repos\IOLesson\IOLesson\bin\Debug\IOLesson.exe.config
+c:\users\машимовн.corp\source\repos\IOLesson\IOLesson\bin\Debug\IOLesson.exe
+c:\users\машимовн.corp\source\repos\IOLesson\IOLesson\bin\Debug\IOLesson.pdb
+c:\users\машимовн.corp\source\repos\IOLesson\IOLesson\obj\Debug\IOLesson.csprojAssemblyReference.cache
+c:\users\машимовн.corp\source\repos\IOLesson\IOLesson\obj\Debug\IOLesson.csproj.CoreCompileInputs.cache
+c:\users\машимовн.corp\source\repos\IOLesson\IOLesson\obj\Debug\IOLesson.exe
+c:\users\машимовн.corp\source\repos\IOLesson\IOLesson\obj\Debug\IOLesson.pdb
